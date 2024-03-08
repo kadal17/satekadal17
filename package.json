@@ -1,0 +1,19 @@
+{
+  "name": "satekadal17",
+  "version": "1.1.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm adduser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadal17/satekadal17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadal17/satekadal17/issues"
+  },
+  "homepage": "https://github.com/kadal17/satekadal17#readme",
+  "description": ""
+}
